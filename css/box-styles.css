@@ -1,0 +1,34 @@
+body {
+color: rgb(16, 142, 146);
+background-color: #132004 
+}
+div#pixel{
+    width: 100px;
+    height:100px;
+    background-color: red
+}
+div#porcentaje{
+    width:30%;
+    height:30%;
+    background-color:rgb(5, 78, 42)
+}
+div#em{
+    width:10em;
+    height:10em;
+    background-color:rgb(8, 6, 150)
+}
+div#rem{
+    width:32rem;
+    height:32rem;
+    background-color:rgb(11, 14, 2)
+}
+
+h1{
+    font-family: "Sofia", sans-serif;
+}
+li{
+    font-family: 'Lato', sans-serif; 
+}
+p{
+    font-family: 'Lato', sans-serif;
+}
